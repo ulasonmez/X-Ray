@@ -1,0 +1,9 @@
+main: me.blume.xrayplugin.Main
+name: XRay
+author: Blume
+version: 1.0
+api-version: 1.16
+commands:
+  activatexray:
+  disablexray:
+  
